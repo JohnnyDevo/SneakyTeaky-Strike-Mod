@@ -1,0 +1,10 @@
+{
+  "modid": "SneakyTeakyStrikeMod",
+  "name": "Sneaky Teaky Strike",
+  "author_list": ["JohnnyDevo"],
+  "description": "Replaces the art on Sneaky Strike with Teaky art.",
+  "dependencies": ["basemod"],
+  "version": "${project.version}",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}"
+}
